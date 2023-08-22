@@ -1,5 +1,5 @@
 // imports
-import {createRouter, createWebHistory} from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 
 // layouts
 const defaultLayout = () => import('../layouts/default.vue')
